@@ -122,5 +122,8 @@ This repository contains a curated list of **75 logic-building problems** design
 ## Contribution
 Feel free to contribute additional solutions or optimize the existing ones. Pull requests are welcome!
 
+**FILE NAME FORMATS : QN_NUMBER_URNAME
+EG: QN_1_KRISHNA.JAVA**
+
 ---
 
